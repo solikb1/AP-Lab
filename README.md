@@ -108,10 +108,7 @@ The application includes:
 
 ## Screenshot
 
-```text
-<img width="808" height="639" alt="image" src="https://github.com/user-attachments/assets/9ff236cb-2f3f-4c6b-bd53-4959a5b1b514" />
-
-```
+![Notepad Application](screenshoot/NOTEPAD.png)
 
 ---
 
