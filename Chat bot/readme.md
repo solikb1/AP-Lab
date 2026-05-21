@@ -241,19 +241,19 @@ Possible enhancements:
 # Screenshots
 
 ## Login Screen
-![Login Screen](screenshots/Screenshot%202026-05-21%20094215.png)
+![Login Screen](screenshoot/Screenshot%202026-05-21%20094215.png)
 
 ## Registration Screen
-![Registration Screen](screenshots/Screenshot%202026-05-21%20094227.png)
+![Registration Screen](screenshoot/Screenshot%202026-05-21%20094227.png)
 
 ## Chat Window
-![Chat Window](screenshots/Screenshot%202026-05-21%20094238.png)
+![Chat Window](screenshoot/Screenshot%202026-05-21%20094238.png)
 
 ## File Sharing
-![File Sharing](screenshots/Screenshot%202026-05-21%20100153.png)
+![File Sharing](screenshoot/Screenshot%202026-05-21%20100153.png)
 
 ## Multiple Clients
-![Multiple Clients](screenshots/Screenshot%202026-05-21%20100252.png)
+![Multiple Clients](screenshoot/Screenshot%202026-05-21%20100252.png)
 
 
 
